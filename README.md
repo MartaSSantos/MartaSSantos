@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋🏾 , sou a Marta 🙋🏾‍♀️</h1><h3 align="center">Sou programadora Front-End</h3><h3 align="left">Saiba mais sobre mim: 👩🏾‍💻</h3><p align="left">
+<h1 align="center">Olá 👋🏾 , sou a Marta 💁🏾‍♀</h1><h3 align="center">Sou programadora Front-End</h3><h3 align="left">Saiba mais sobre mim: 👩🏾‍💻</h3><p align="left">
 
 
 - 🔭 Atualmente estou em busca da minha primeira experiência no mercado de trabalho como programadora  **Front-End**
