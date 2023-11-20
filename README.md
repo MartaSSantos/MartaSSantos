@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋🏾 , sou a Marta</h1><h3 align="center">Sou programadora Front-End</h3><h3 align="left">Connect with me:</h3><p align="left">
-</p><h3 align="left">Idiomas e Ferramentas:</h3><p align="left">
+</p><h3 align="left"> Ferramentas:</h3><p align="left">
 
 
 
