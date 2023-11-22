@@ -18,7 +18,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-![silvovisk's Stats](https://github-readme-stats.vercel.app/api?username=silvovisk&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Marta S. Santoa](https://github-readme-stats.vercel.app/api?username=silvovisk&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![silvovisk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=silvovisk&theme=tokyonight&hide_border=true)
-![silvovisk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silvovisk&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![silvovisk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MartaSSantos=tokyonight&show_icons=true&hide_border=true&layout=compact)
