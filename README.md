@@ -5,7 +5,7 @@
 - 🌱 Em constante aprendizado de **JavaScript, frameworks e Automação Front-End**
 - 💞 Pessoas, livros, doguinhos, música, poesias, arte...
 - 📫 Para me contatar:  **martasilvaa325@gmail.com**
-- 
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/7martasantos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Martas.santoa" height="30" width="40" /></a>
