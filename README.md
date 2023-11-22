@@ -15,10 +15,3 @@
 <a href="https://www.linkedin.com/in/7martasantos/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martasantos" height="30" width="30" /></a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
-![Marta S. Santoa](https://github-readme-stats.vercel.app/api?username=silvovisk&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![silvovisk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=silvovisk&theme=tokyonight&hide_border=true)
-![silvovisk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MartaSSantos=tokyonight&show_icons=true&hide_border=true&layout=compact)
